@@ -3,7 +3,8 @@
 # Note
 cool836picoを完成したので、忘備録として記入します。
 <br>
-cool836picoは、m.kiが設計したキーボードです。cool836Aをベースにして、従来のpro microから、Raspberry pi pico（以下、ピコ）を採用し、敗戦処理等を新規設計したものである。<br>
+cool836picoは、m.kiが設計したキーボードです。<br>
+cool836Aをベースにして、従来のpro microから、Raspberry pi pico（以下、ピコ）を採用し、敗戦処理等を新規設計したものである。<br>
 特徴は、前述のピコを採用したこと。<br>
 cool836Aと同じ、アリス配列をもしたキーレイアウトであること。<br>
 スイッチソケットを採用して、Cherry MXとxkailh chocの両方が使えること。<br>
