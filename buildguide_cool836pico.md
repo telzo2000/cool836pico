@@ -94,7 +94,8 @@ https://github.com/KMKfw/kmk_firmware/archive/7a30cc8ccea4111d9b953033599f176579
 
 **３　code.pyの配置**
 <br>
-Picoのルート・ディレクトリにcode.pyをコピーします。
+Picoのルート・ディレクトリにcode.pyをコピーします。<br>
+
 [cool836pico用のcode.py](https://github.com/telzo2000/cool836pico/blob/main/code.py)
 <br>
 書き込みが完了すると自動的にリセットがかかります。
