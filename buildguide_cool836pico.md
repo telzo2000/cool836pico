@@ -132,7 +132,7 @@ cool836picoは、chocソケットおよびMXソケットに対応しています
 <br>
 ダイオード、chocソケット、MXソケットがハンダ付けされたPCB
 
-![](img/img00003.JPG)
+![](img/img00003.jpg)
 
 <br>
 
