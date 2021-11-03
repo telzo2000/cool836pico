@@ -1,5 +1,8 @@
 # cool836pico
 
+# build guide
+https://github.com/telzo2000/cool836pico/blob/main/buildguide_cool836pico.md
+
 # Note
 cool836picoを完成したので、忘備録として記入します。
 <br>
