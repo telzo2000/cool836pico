@@ -56,8 +56,10 @@ cool836pico　chocスイッチ採用
 そのため、購入者からの質問に答えるほどの知識、技術がありません。
 ご容赦ください。
 <br>
-また、ruby（prk_firmware）でも、動作しましたが、私の知識、技術では、一部の挙動を制御しきれず、ちょっと公開するまでのファームウェアにならなかったため、掲載しません。
-動作実績はありますので、お試しください。
+~~また、ruby（prk_firmware）でも、動作しましたが、私の知識、技術では、一部の挙動を制御しきれず、ちょっと公開するまでのファームウェアにならなかったため、掲載しません。~~
+~~動作実績はありますので、お試しください。~~
+<br>
+準備出来次第、追記します。prk_firmwareで必要なkeymap.rbは、[ここ](https://github.com/telzo2000/cool836pico/tree/main/firmware_fo_prk)にあります。
 
 <br>
 <br>
@@ -96,7 +98,7 @@ https://github.com/KMKfw/kmk_firmware/archive/7a30cc8ccea4111d9b953033599f176579
 <br>
 Picoのルート・ディレクトリにcode.pyをコピーします。<br>
 
-[cool836pico用のcode.py](https://github.com/telzo2000/cool836pico/blob/main/code.py)
+[cool836pico用のcode.py](https://github.com/telzo2000/cool836pico/tree/main/firmware_for_kmk)
 <br>
 書き込みが完了すると自動的にリセットがかかります。
 <br>
