@@ -57,7 +57,7 @@ cool836pico　chocスイッチ採用
 ご容赦ください。
 <br>
 ~~また、ruby（prk_firmware）でも、動作しましたが、私の知識、技術では、一部の挙動を制御しきれず、ちょっと公開するまでのファームウェアにならなかったため、掲載しません。~~
-~~動作実績はありますので、お試しください。~~
+動作実績はありますので、お試しください。
 <br>
 準備出来次第、追記します。prk_firmwareで必要なkeymap.rbは、[ここ](https://github.com/telzo2000/cool836pico/tree/main/firmware_fo_prk)にあります。
 
